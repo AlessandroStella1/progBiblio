@@ -1,0 +1,24 @@
+[
+  {
+    "id": "001",
+    "titolo": "La coscienza di Zeno",
+    "categoria": "Romanzo"
+
+  },
+  {
+    "id": "002",
+    "titolo": "Il fu Mattia Pascal",
+    "categoria": "Romanzo"
+
+  },
+  {
+    "id": "003",
+    "titolo": "La Divina Commedia",
+    "categoria": "Poema"
+  },
+  {
+    "id": "004",
+    "titolo" : "I promessi sposi",
+    "categoria": "Romanzo"
+  }
+]
